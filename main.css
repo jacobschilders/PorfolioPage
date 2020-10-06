@@ -1,0 +1,108 @@
+body { 
+    background: url(./assets/background_digital.jpg);
+    
+    
+}
+.navbar-toggler{
+    font-family: 'Courier New', Courier, monospace;
+}
+.welcome{
+    color: #007bff;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.carousel{
+    display: flex;
+    width: 25%;
+    height: 25%;
+    margin: 0 auto;
+    padding-bottom: 50px;
+    
+}
+.slide{
+    font-family: 'Courier New', Courier, monospace;
+    color: #007bff;
+    font-weight: bold;
+    background-color: azure;
+    
+}
+.visually-hidden{
+    font-family: 'Courier New', Courier, monospace;
+    color: #007bff;
+    font-weight: 900;
+}
+.carousel-item img{
+    border-radius: 8px;
+}
+
+.carousel-item img:hover{
+    opacity: 0.5;
+}
+
+
+
+
+/* footer css */
+
+footer{
+    background: #222;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    padding-top: 40px;
+  }
+  .copy{
+      padding-top: 40px;
+  }
+
+  /*ABOUT*/
+  .jkc{
+    display: flex;
+    width: 25%;
+    height: 25%;
+    margin: 0 auto;
+    padding-bottom: 50px;
+    border-radius: 10px;
+  }
+  .about{
+    font-family: 'Courier New', Courier, monospace;
+    color: #007bff;
+  }
+
+  /*Project*/
+
+
+  /*Contact Form*/
+ form{
+    width: 200px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #007bff;
+    
+ }
+ .animal{
+     text-align: center;
+     font-family: 'Courier New', Courier, monospace;
+     color: #007bff;
+ }
+ .pic{
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 33%;
+ }
+ .me{
+     text-align: center;
+     font-family: 'Courier New', Courier, monospace;
+     color: #007bff;
+     font-weight: bold;
+ }
